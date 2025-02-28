@@ -10,3 +10,5 @@ Fullly excited to make this project. It is a FAQ based chatbot. It is a funny an
 ## What this Chatbot will do?
   Provide Answers of all the questions asked by new admission student or the student that want to apply in university of education, Lahore.
   It will provide all the question's answer in a funny way. But with correctness. (It is built manuallly. No use of hugging face or OpenAPI key. Isn't it exciting? For me yeah it is)
+
+Let's wait for result......
